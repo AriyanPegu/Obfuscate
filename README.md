@@ -5,8 +5,8 @@ $ pkg install nodejs
 
 $ npm install -g bash-obfuscate
 
-$ git clone https://github.com/AriyanPegu/Obfuscate
+$ git clone https://github.com/AriyanPegu/obfuscate
 
-$ cd Obfuscate
+$ cd obfuscate
 
 $ python2 bash.py
